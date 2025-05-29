@@ -25,4 +25,3 @@ To bridge the gap between the physical and digital economies by enabling secure,
 
 ## Contract details
 0x05D0AF98E7A7353Be3216f75f08395F60FC7A6d8![alt text](image.png)
-project made by druv SHukla
