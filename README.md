@@ -14,7 +14,6 @@ To bridge the gap between the physical and digital economies by enabling secure,
 - Metadata URI for off-chain documentation (proof, certificates)
 - Ownership tracking and transferability
 - Verifiable history of asset issuance
-- Token issuance based on audited real-world asset value
 
 ## 🚀 Future Scope
 
