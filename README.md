@@ -21,7 +21,7 @@ To bridge the gap between the physical and digital economies by enabling secure,
 - Support for fractional ownership via ERC20 tokens.
 - On-chain verification of asset authenticity.
 - DeFi lending/borrowing using tokenized assets as collateral.
-- Legal compliance and KYC module integration.
+- Legal compliance and KYC module integration
 
 ## Contract details
 0x05D0AF98E7A7353Be3216f75f08395F60FC7A6d8![alt text](image.png)
