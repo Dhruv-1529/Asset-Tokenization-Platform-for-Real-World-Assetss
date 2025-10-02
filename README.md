@@ -17,10 +17,10 @@ To bridge the gap between the physical and digital economies by enabling secure,
 
 ## 🚀 Future Scope
 
-- Integration with oracles for real-world validation.
-- Support for fractional ownership via ERC20 tokens.
-- On-chain verification of asset authenticity.
-- DeFi lending/borrowing using tokenized assets as collateral.
+- Integration with oracles for real-world validation
+- Support for fractional ownership via ERC20 tokens
+- On-chain verification of asset authenticity
+- DeFi lending/borrowing using tokenized assets as collateral
 - Legal compliance and KYC module integration
 
 ## Contract details
