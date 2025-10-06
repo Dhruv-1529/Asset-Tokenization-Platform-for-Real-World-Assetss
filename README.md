@@ -13,7 +13,7 @@ To bridge the gap between the physical and digital economies by enabling secure,
 - ERC721-based NFT for each unique asset
 - Metadata URI for off-chain documentation (proof, certificates)
 - Ownership tracking and transferability
-- Verifiable history of asset issuance
+- Verifiable history of asset issuance.
 
 ## 🚀 Future Scope
 
