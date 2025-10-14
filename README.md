@@ -6,7 +6,7 @@ A decentralized platform to tokenize real-world assets as NFTs. Each token repre
 
 ## 🌍 Project Vision
 
-To bridge the gap between the physical and digital economies by enabling secure, transparent, and verifiable tokenization of real-world assets using smart contracts.
+To bridge the gap between the physical and digital economies by enabling secure, transparent, and verifiable tokenization of real-world assets using smart contracts
 
 ## 🔑 Key Features
 
