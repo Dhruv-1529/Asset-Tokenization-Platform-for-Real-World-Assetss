@@ -2,7 +2,7 @@
 
 ## 📖 Project Description
 
-A decentralized platform to tokenize real-world assets as NFTs. Each token represents ownership or certification of a real-world asset, such as real estate, artwork, or physical goods, recorded on the blockchain with metadata references.
+A decentralized platform to tokenize real-world assets as NFTs. Each token represents ownership or certification of a real-world asset, such as real estate, artwork, or physical goods, recorded on the blockchain with metadata references
 
 ## 🌍 Project Vision
 
